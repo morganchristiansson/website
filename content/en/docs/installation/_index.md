@@ -119,7 +119,7 @@ If your Git provider is **AWS CodeCommit**, **Azure DevOps**, **Bitbucket Server
 follow the specific bootstrap procedure:
 
 * [AWS CodeCommit](./platforms/aws-codecommit.md#flux-installation-for-aws-codecommit)
-* [Azure DevOps](./use-cases/azure.md#flux-installation-for-azure-devops)
+* [Azure DevOps](./platforms/azure.md#flux-installation-for-azure-devops)
 * [Bitbucket Server and Data Center](#bitbucket-server-and-data-center)
 * [GitHub.com and GitHub Enterprise](#github-and-github-enterprise)
 * [GitLab.com and GitLab Enterprise](#gitlab-and-gitlab-enterprise)

@@ -13,3 +13,4 @@
 /docs/contributing/docs/some-background       https://github.com/fluxcd/website#readme      301!
 /docs/guides/repository-structure             /docs/installation/repository-structure       301!
 /docs/use-cases/aws-codecommit                /docs/installation/platforms/aws-codecommit   301!
+/docs/use-cases/azure                         /docs/installation/platforms                  301!
