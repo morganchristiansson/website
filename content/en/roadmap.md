@@ -150,7 +150,7 @@ Tasks
 ### Helm v3 feature parity
 
 Helm support in Flux v2 is ready to try. See the [Helm controller
-guide](/docs/guides/helmreleases/), and the [Helm
+guide](/docs/workflows/helmreleases/), and the [Helm
 controller migration
 guide](/docs/migration/helm-operator-migration/).
 

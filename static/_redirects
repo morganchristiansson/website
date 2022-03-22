@@ -20,3 +20,4 @@
 /docs/guides/webhook-receivers                /docs/operations/webhook-receivers            301!
 /docs/guides/mozilla-sops                     /docs/operations/secrets/mozilla-sops         301!
 /docs/guides/sealed-secrets                   /docs/operations/secrets/sealed-secrets       301!
+/docs/guides/helmreleases                     /docs/workflows/helmreleases                  301!
